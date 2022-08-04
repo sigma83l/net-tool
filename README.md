@@ -4,6 +4,6 @@ featurs :
     ease of testing process
     connecting to a router 
 ## IS DEVELOPING ...
-posible featurs:
+posible future featurs:
     DOS and DDOS Provider
 
